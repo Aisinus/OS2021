@@ -1,0 +1,136 @@
+    1  lspci -knn | grep Net -A2
+    2  sudo apt-get purge bcma-kernel-source
+    3  sudo apt-get purge bcmwl-kernel-source
+    4  sudo apt-get purge bcma-pci-bridge
+    5  sudo apt-get install --reinstall bcmwl-kernel-source
+    6  sudo modprobe w1
+    7  sudo apt-get purge bcmwl-kernel-source
+    8  sudo apt-get install bcmwl-kernel-source
+    9  sudo apt-get purge bcmwl-kernel-source
+   10  sudo apt-get install --reinstall bcmwl-kernel-source
+   11  sudo modprobe wl
+   12  dmesg | grep w1
+   13  dmesg | grep w1
+   14  sudo modprobe w1
+   15  sudo apt-get purge bcmwl-kernel-source
+   16  arch
+   17  cd ~/Desktop
+   18  sudo dpkg -i *.deb
+   19  ip a
+   20  ..
+   21  cd ~/
+   22  sudo apt install libc6-dev
+   23  ping google.com
+   24  ping 8.8.8.8
+   25  ping google.com
+   26  sudo apt install libc6-dev
+   27  sudo apt-get install bcmwl-kernel-source
+   28  ping google.com
+   29  sudo apt-get install bcmwl-kernel-source
+   30  sudo apt-get install chromium-browser
+   31  echo 2 
+   32  echo 2 | sudo tee /sys/module/hid_apple/parameters/fnmode 
+   33  sudo snap install pycharm-professional --classic
+   34  sudo snap install [pycharm-professional] --classic
+   35  sudo snap install [pycharm-professional|pycharm-community] --classic
+   36  echo 'options hid_apple fnmode=2' > /etc/modprobe.d/apple_kbd.conf
+   37  sudo echo 'options hid_apple fnmode=2' > /etc/modprobe.d/apple_kbd.conf
+   38  echo options hid_apple fnmode=2 | sudo tee -a /etc/modprobe.d/hid_apple.conf
+   39  sudo update-initramfs -u -k all
+   40  sudo reboot
+   41  htop
+   42  sudo apt install htop
+   43  htop
+   44  gnome-system-monitor
+   45  sudo apt-get install git
+   46  git --version
+   47  g++
+   48  dpkg --lisg | grep compiler
+   49  dpkg --list | grep compiler
+   50  gcc
+   51  cmake
+   52  git help
+   53  git repo clone Aisinus/ITP
+   54  git clone Aisinus/ITP
+   55  git@github.com:Aisinus/ITP.git
+   56  git git@github.com:Aisinus/ITP.git
+   57  CCCCCCCCCCCCCCCCCgit@github.com:Aisinus/ITP.git
+   58  get init
+   59  git clone https://github.com/Aisinus/ITP.git
+   60  lsb_release -a
+   61  sudo snap install clion --classic
+   62  sudo apt-install snap
+   63  sudo apt-get snap
+   64  git clone https://github.com/opencv/opencv.git
+   65  echo Arslan soset
+   66  xle txt.txt
+   67  gcc -pthread -o term term.c
+   68  gcc -lpthread
+   69  git init
+   70  git status
+   71  V
+   72  git init
+   73  ls
+   74  git add .
+   75  git status
+   76  git commit -m "initial commit"
+   77  git push
+   78  git branch -M main
+   79  git remote add origin https://github.com/Aisinus/DSA.git
+   80  git push -u origin main
+   81  git init
+   82  .git
+   83  git 
+   84  git init
+   85  git commit -m "first commit"
+   86  git branch -M main
+   87  git branch -M 
+   88  git branch -M
+   89  git branch -M src
+   90  git remote add origin https://github.com/Aisinus/DSA.git
+   91  git push -u origin main
+   92  git remote add origin https://github.com/Aisinus/DSA.git
+   93  git
+   94  git init
+   95  git remote add origin https://github.com/Aisinus/DSA.git
+   96  git branch -M main
+   97  git branch -M DSA
+   98  ls
+   99  cd Desktop/
+  100  touch Main.java
+  101  git init
+  102  git commit -m "first commit"
+  103  git branch -M main
+  104  git remote add origin https://github.com/Aisinus/New_ITP.git
+  105  git push -u origin main
+  106  git add README.md
+  107  git init
+  108  git remote add origin https://github.com/Aisinus/New_ITP.git
+  109  git branch -M main
+  110  git push -u origin main
+  111  git init
+  112  git commit "FINALLY"
+  113  git push -M main
+  114  sudo apt install gnupg ca-certificates
+  115  sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 3FA7E0328081BFF6A14DA29AA6A19B38D3D831EF
+  116  echo "deb https://download.mono-project.com/repo/ubuntu stable-focal main" | sudo tee /etc/apt/sources.list.d/mono-official-stable.list
+  117  sudo apt update
+  118  sudo apt install mono-devel
+  119  apt update
+  120  ls
+  121  cd Downloads/
+  122  ls
+  123  sudo apt install ./Yandex.deb
+  124  mkdir ~/week1
+  125  ls
+  126  cd week1/
+  127  ls /usr/bin | grep 'gcc'
+  128  grep --help
+  129  tail -r /usr/bin | grep 'gcc'
+  130* tail -r /usr/bin | grep 'gcc'
+  131  ls | sort-r | /usr/bin | grep 'gcc'
+  132  ls /usr/bin | grep 'gcc' | sort -r
+  133  ls /usr/bin | grep 'gcc' | sort -r > ex1.txt
+  134  ls
+  135  touch ex1.txt 
+  136  history > ex2.txt

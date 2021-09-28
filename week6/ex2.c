@@ -53,7 +53,7 @@ void tablePrint(table_csv *table){
 
 }
 
-
+// Sort by arrivalTime
 
 void swap(process_t* a, process_t* b){
 	process_t t=*a;
@@ -62,13 +62,16 @@ void swap(process_t* a, process_t* b){
 }
 
 int partition(process_t arr[], int low, int high){
-	int pivot = arr[high].arrivaltime;
+	process_t pivot = arr[high];
 	int i = (low-1);
 
 	for(int j=low;j<=high-1;j++){
-		if(arr[j].arrivaltime<pivot){
+		if(arr[j].arrivaltime<pivot.arrivaltime){
 			i++;
 			swap(&arr[i], &arr[j]);
+		}else if(arr[j].arrivaltime==pivot.arrivaltime){
+			//printf("hello %d,%d,%d\n",arr[i].bursttime, pivot.bursttime, arr[j].bursttime);
+			if(arr[j].bursttime<pivot.bursttime) swap(&arr[j],&arr[high]);
 		}
 	}
 	swap(&arr[i+1],&arr[high]);
@@ -83,7 +86,34 @@ void quickSort(process_t arr[], int low, int high)
         quickSort(arr, low, pi - 1); 
         quickSort(arr, pi + 1, high); 
     } 
+}
+//////////////////////////////////////////////////////////////////////////////////////////////
+
+// Sort by BurstTime
+int partitionBurst(process_t arr[], int low, int high){
+	process_t pivot = arr[high];
+	int i = (low-1);
+
+	for(int j=low;j<=high-1;j++){
+		if(arr[j].bursttime<pivot.bursttime){
+			i++;
+			swap(&arr[i], &arr[j]);
+		}
+	}
+	swap(&arr[i+1],&arr[high]);
+	return (i+1);
+}
+
+void quickSortBurst(process_t arr[], int low, int high) 
+{ 
+    if (low < high) 
+    { 
+        int pi = partitionBurst(arr, low, high); 
+        quickSortBurst(arr, low, pi - 1); 
+        quickSortBurst(arr, pi + 1, high); 
+    } 
 } 
+/////////////////////////////////////////////
 
 
 
@@ -98,20 +128,36 @@ int main(){
 	printf("File address: \n");
 	scanf("%[^\n]s",filename);
 	table_csv *csvTable=readCSV(filename);
-	quickSort(csvTable->data,0,csvTable->size-1);
 
+
+
+	quickSort(csvTable->data,0,csvTable->size-1);
 	int t = 0;
 	for(int i=0;i<csvTable->size;i++){
+
 		if(t == 0){
 			t = csvTable->data[i].arrivaltime;
 		}
 		int wt = t - csvTable->data[i].arrivaltime;
-		if(wt<0) wt=0;
+		if(wt<0){
+		 	wt=0;
+		}
 		csvTable->data[i].ct = csvTable->data[i].arrivaltime + wt + csvTable->data[i].bursttime;
 		csvTable->data[i].tat = wt + csvTable->data[i].bursttime;
 		csvTable->data[i].wt = wt;
 		t = csvTable->data[i].ct;
+
+		int next_size=0;
+		for(int j=i+1;j<csvTable->size;j++){
+			
+			if(csvTable->data[i].ct>=csvTable->data[j].arrivaltime){
+				next_size++;
+			}
+		}
+		quickSortBurst(csvTable->data,i+1,next_size);
+
 	}
+
 
 	tablePrint(csvTable);
 	

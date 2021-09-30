@@ -3,6 +3,10 @@
 #include "string.h"
 
 void *own_realloc(void *ptr, size_t size){
+	if(size == 0){ 
+		free(ptr);
+		return;
+	}
 	void *new_ptr = malloc(size);
 	if(ptr!=NULL){
 	memcpy(new_ptr,ptr,size);

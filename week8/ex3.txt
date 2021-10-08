@@ -1,0 +1,8 @@
+top - 17:22:33 up 1 day, 21:21,  1 user,  load average: 0,88, 0,78, 0,65
+Tasks: 263 total,   2 running, 261 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3,0 us,  7,5 sy,  0,0 ni, 88,1 id,  0,0 wa,  0,0 hi,  1,5 si,  0,0 st
+МиБ Mem :   3873,9 total,   1416,9 free,   1711,6 used,    745,3 buff/cache
+МиБ Swap:   2048,0 total,     53,9 free,   1994,1 used.   1606,8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND                            
+  30283 aisen     20   0  616920 590084   1092 R  18,8  14,9   0:00.31 ex2Malloc   

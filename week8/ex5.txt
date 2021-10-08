@@ -1,0 +1,1 @@
+Physical addressing means that your program actually knows the real layout of RAM. With virtual addressing, all application memory accesses go to a page table, which then maps from the virtual to the physical address.

@@ -1,0 +1,3002 @@
+input 337
+i=0 id = 337 32768 
+
+input 490
+i=0 id = 490 32768 
+
+input 194
+i=0 id = 194 32768 
+
+input 973
+i=0 id = 973 32768 
+
+input 151
+i=0 id = 151 32768 
+
+input 425
+i=0 id = 425 32768 
+
+input 722
+i=0 id = 722 32768 
+
+input 816
+i=0 id = 816 32768 
+
+input 331
+i=0 id = 331 32768 
+
+input 760
+i=0 id = 760 32768 
+
+input 864
+i=0 id = 864 32768 
+
+input 53
+i=0 id = 53 32768 
+
+input 416
+i=0 id = 416 32768 
+
+input 170
+i=0 id = 170 32768 
+
+input 829
+i=0 id = 829 32768 
+
+input 434
+i=0 id = 434 32768 
+
+input 181
+i=0 id = 181 32768 
+
+input 731
+i=0 id = 731 32768 
+
+input 86
+i=0 id = 86 32768 
+
+input 544
+i=0 id = 544 32768 
+
+input 29
+i=0 id = 29 32768 
+
+input 559
+i=0 id = 559 32768 
+
+input 629
+i=0 id = 629 32768 
+
+input 411
+i=0 id = 411 32768 
+
+input 365
+i=0 id = 365 32768 
+
+input 368
+i=0 id = 368 32768 
+
+input 802
+i=0 id = 802 32768 
+
+input 962
+i=0 id = 962 32768 
+
+input 529
+i=0 id = 529 32768 
+
+input 833
+i=0 id = 833 32768 
+
+input 8
+i=0 id = 8 32768 
+
+input 435
+i=0 id = 435 32768 
+
+input 564
+i=0 id = 564 32768 
+
+input 94
+i=0 id = 94 32768 
+
+input 64
+i=0 id = 64 32768 
+
+input 695
+i=0 id = 695 32768 
+
+input 654
+i=0 id = 654 32768 
+
+input 913
+i=0 id = 913 32768 
+
+input 867
+i=0 id = 867 32768 
+
+input 679
+i=0 id = 679 32768 
+
+input 129
+i=0 id = 129 32768 
+
+input 773
+i=0 id = 773 32768 
+
+input 158
+i=0 id = 158 32768 
+
+input 231
+i=0 id = 231 32768 
+
+input 477
+i=0 id = 477 32768 
+
+input 118
+i=0 id = 118 32768 
+
+input 825
+i=0 id = 825 32768 
+
+input 976
+i=0 id = 976 32768 
+
+input 616
+i=0 id = 616 32768 
+
+input 395
+i=0 id = 395 32768 
+
+input 715
+i=0 id = 715 32768 
+
+input 870
+i=0 id = 870 32768 
+
+input 229
+i=0 id = 229 32768 
+
+input 687
+i=0 id = 687 32768 
+
+input 20
+i=0 id = 20 32768 
+
+input 160
+i=0 id = 160 32768 
+
+input 543
+i=0 id = 543 32768 
+
+input 231
+i=0 id = 231 32768 
+
+input 977
+i=0 id = 977 32768 
+
+input 792
+i=0 id = 792 32768 
+
+input 942
+i=0 id = 942 32768 
+
+input 680
+i=0 id = 680 32768 
+
+input 81
+i=0 id = 81 32768 
+
+input 257
+i=0 id = 257 32768 
+
+input 314
+i=0 id = 314 32768 
+
+input 374
+i=0 id = 374 32768 
+
+input 354
+i=0 id = 354 32768 
+
+input 522
+i=0 id = 522 32768 
+
+input 464
+i=0 id = 464 32768 
+
+input 410
+i=0 id = 410 32768 
+
+input 462
+i=0 id = 462 32768 
+
+input 311
+i=0 id = 311 32768 
+
+input 82
+i=0 id = 82 32768 
+
+input 648
+i=0 id = 648 32768 
+
+input 299
+i=0 id = 299 32768 
+
+input 604
+i=0 id = 604 32768 
+
+input 588
+i=0 id = 588 32768 
+
+input 527
+i=0 id = 527 32768 
+
+input 131
+i=0 id = 131 32768 
+
+input 48
+i=0 id = 48 32768 
+
+input 32
+i=0 id = 32 32768 
+
+input 682
+i=0 id = 682 32768 
+
+input 295
+i=0 id = 295 32768 
+
+input 832
+i=0 id = 832 32768 
+
+input 131
+i=0 id = 131 32768 
+
+input 35
+i=0 id = 35 32768 
+
+input 246
+i=0 id = 246 32768 
+
+input 148
+i=0 id = 148 32768 
+
+input 256
+i=0 id = 256 32768 
+
+input 970
+i=0 id = 970 32768 
+
+input 510
+i=0 id = 510 32768 
+
+input 668
+i=0 id = 668 32768 
+
+input 305
+i=0 id = 305 32768 
+
+input 356
+i=0 id = 356 32768 
+
+input 265
+i=0 id = 265 32768 
+
+input 5
+i=0 id = 5 32768 
+
+input 581
+i=0 id = 581 32768 
+
+input 436
+i=0 id = 436 32768 
+
+input 411
+i=0 id = 411 32768 
+
+input 864
+i=0 id = 864 32768 
+
+input 59
+i=0 id = 59 32768 
+
+input 444
+i=0 id = 444 32768 
+
+input 603
+i=0 id = 603 32768 
+
+input 392
+i=0 id = 392 32768 
+
+input 778
+i=0 id = 778 32768 
+
+input 42
+i=0 id = 42 32768 
+
+input 91
+i=0 id = 91 32768 
+
+input 740
+i=0 id = 740 32768 
+
+input 229
+i=0 id = 229 32768 
+
+input 774
+i=0 id = 774 32768 
+
+input 6
+i=0 id = 6 32768 
+
+input 253
+i=0 id = 253 32768 
+
+input 729
+i=0 id = 729 32768 
+
+input 182
+i=0 id = 182 32768 
+
+input 649
+i=0 id = 649 32768 
+
+input 666
+i=0 id = 666 32768 
+
+input 313
+i=0 id = 313 32768 
+
+input 198
+i=0 id = 198 32768 
+
+input 65
+i=0 id = 65 32768 
+
+input 540
+i=0 id = 540 32768 
+
+input 392
+i=0 id = 392 32768 
+
+input 420
+i=0 id = 420 32768 
+
+input 132
+i=0 id = 132 32768 
+
+input 623
+i=0 id = 623 32768 
+
+input 155
+i=0 id = 155 32768 
+
+input 119
+i=0 id = 119 32768 
+
+input 781
+i=0 id = 781 32768 
+
+input 263
+i=0 id = 263 32768 
+
+input 752
+i=0 id = 752 32768 
+
+input 385
+i=0 id = 385 32768 
+
+input 809
+i=0 id = 809 32768 
+
+input 906
+i=0 id = 906 32768 
+
+input 790
+i=0 id = 790 32768 
+
+input 270
+i=0 id = 270 32768 
+
+input 960
+i=0 id = 960 32768 
+
+input 983
+i=0 id = 983 32768 
+
+input 881
+i=0 id = 881 32768 
+
+input 320
+i=0 id = 320 32768 
+
+input 122
+i=0 id = 122 32768 
+
+input 764
+i=0 id = 764 32768 
+
+input 861
+i=0 id = 861 32768 
+
+input 806
+i=0 id = 806 32768 
+
+input 555
+i=0 id = 555 32768 
+
+input 665
+i=0 id = 665 32768 
+
+input 191
+i=0 id = 191 32768 
+
+input 160
+i=0 id = 160 32768 
+
+input 192
+i=0 id = 192 32768 
+
+input 304
+i=0 id = 304 32768 
+
+input 129
+i=0 id = 129 32768 
+
+input 586
+i=0 id = 586 32768 
+
+input 207
+i=0 id = 207 32768 
+
+input 635
+i=0 id = 635 32768 
+
+input 300
+i=0 id = 300 32768 
+
+input 776
+i=0 id = 776 32768 
+
+input 281
+i=0 id = 281 32768 
+
+input 301
+i=0 id = 301 32768 
+
+input 724
+i=0 id = 724 32768 
+
+input 619
+i=0 id = 619 32768 
+
+input 64
+i=0 id = 64 32768 
+
+input 627
+i=0 id = 627 32768 
+
+input 934
+i=0 id = 934 32768 
+
+input 943
+i=0 id = 943 32768 
+
+input 380
+i=0 id = 380 32768 
+
+input 521
+i=0 id = 521 32768 
+
+input 910
+i=0 id = 910 32768 
+
+input 67
+i=0 id = 67 32768 
+
+input 902
+i=0 id = 902 32768 
+
+input 863
+i=0 id = 863 32768 
+
+input 500
+i=0 id = 500 32768 
+
+input 140
+i=0 id = 140 32768 
+
+input 227
+i=0 id = 227 32768 
+
+input 33
+i=0 id = 33 32768 
+
+input 51
+i=0 id = 51 32768 
+
+input 707
+i=0 id = 707 32768 
+
+input 523
+i=0 id = 523 32768 
+
+input 596
+i=0 id = 596 32768 
+
+input 572
+i=0 id = 572 32768 
+
+input 816
+i=0 id = 816 32768 
+
+input 715
+i=0 id = 715 32768 
+
+input 314
+i=0 id = 314 32768 
+
+input 843
+i=0 id = 843 32768 
+
+input 861
+i=0 id = 861 32768 
+
+input 694
+i=0 id = 694 32768 
+
+input 996
+i=0 id = 996 32768 
+
+input 850
+i=0 id = 850 32768 
+
+input 945
+i=0 id = 945 32768 
+
+input 592
+i=0 id = 592 32768 
+
+input 699
+i=0 id = 699 32768 
+
+input 912
+i=0 id = 912 32768 
+
+input 284
+i=0 id = 284 32768 
+
+input 361
+i=0 id = 361 32768 
+
+input 518
+i=0 id = 518 32768 
+
+input 529
+i=0 id = 529 32768 
+
+input 850
+i=0 id = 850 32768 
+
+input 4
+i=0 id = 4 32768 
+
+input 118
+i=0 id = 118 32768 
+
+input 248
+i=0 id = 248 32768 
+
+input 976
+i=0 id = 976 32768 
+
+input 827
+i=0 id = 827 32768 
+
+input 412
+i=0 id = 412 32768 
+
+input 586
+i=0 id = 586 32768 
+
+input 817
+i=0 id = 817 32768 
+
+input 305
+i=0 id = 305 32768 
+
+input 561
+i=0 id = 561 32768 
+
+input 731
+i=0 id = 731 32768 
+
+input 877
+i=0 id = 877 32768 
+
+input 450
+i=0 id = 450 32768 
+
+input 988
+i=0 id = 988 32768 
+
+input 563
+i=0 id = 563 32768 
+
+input 901
+i=0 id = 901 32768 
+
+input 23
+i=0 id = 23 32768 
+
+input 554
+i=0 id = 554 32768 
+
+input 873
+i=0 id = 873 32768 
+
+input 277
+i=0 id = 277 32768 
+
+input 703
+i=0 id = 703 32768 
+
+input 290
+i=0 id = 290 32768 
+
+input 53
+i=0 id = 53 32768 
+
+input 613
+i=0 id = 613 32768 
+
+input 713
+i=0 id = 713 32768 
+
+input 77
+i=0 id = 77 32768 
+
+input 45
+i=0 id = 45 32768 
+
+input 850
+i=0 id = 850 32768 
+
+input 68
+i=0 id = 68 32768 
+
+input 202
+i=0 id = 202 32768 
+
+input 717
+i=0 id = 717 32768 
+
+input 70
+i=0 id = 70 32768 
+
+input 865
+i=0 id = 865 32768 
+
+input 194
+i=0 id = 194 32768 
+
+input 2
+i=0 id = 2 32768 
+
+input 420
+i=0 id = 420 32768 
+
+input 240
+i=0 id = 240 32768 
+
+input 819
+i=0 id = 819 32768 
+
+input 581
+i=0 id = 581 32768 
+
+input 193
+i=0 id = 193 32768 
+
+input 353
+i=0 id = 353 32768 
+
+input 138
+i=0 id = 138 32768 
+
+input 890
+i=0 id = 890 32768 
+
+input 579
+i=0 id = 579 32768 
+
+input 138
+i=0 id = 138 32768 
+
+input 483
+i=0 id = 483 32768 
+
+input 131
+i=0 id = 131 32768 
+
+input 9
+i=0 id = 9 32768 
+
+input 237
+i=0 id = 237 32768 
+
+input 427
+i=0 id = 427 32768 
+
+input 60
+i=0 id = 60 32768 
+
+input 82
+i=0 id = 82 32768 
+
+input 163
+i=0 id = 163 32768 
+
+input 842
+i=0 id = 842 32768 
+
+input 538
+i=0 id = 538 32768 
+
+input 213
+i=0 id = 213 32768 
+
+input 648
+i=0 id = 648 32768 
+
+input 759
+i=0 id = 759 32768 
+
+input 837
+i=0 id = 837 32768 
+
+input 122
+i=0 id = 122 32768 
+
+input 262
+i=0 id = 262 32768 
+
+input 657
+i=0 id = 657 32768 
+
+input 334
+i=0 id = 334 32768 
+
+input 569
+i=0 id = 569 32768 
+
+input 668
+i=0 id = 668 32768 
+
+input 381
+i=0 id = 381 32768 
+
+input 695
+i=0 id = 695 32768 
+
+input 553
+i=0 id = 553 32768 
+
+input 388
+i=0 id = 388 32768 
+
+input 814
+i=0 id = 814 32768 
+
+input 952
+i=0 id = 952 32768 
+
+input 292
+i=0 id = 292 32768 
+
+input 290
+i=0 id = 290 32768 
+
+input 243
+i=0 id = 243 32768 
+
+input 399
+i=0 id = 399 32768 
+
+input 495
+i=0 id = 495 32768 
+
+input 32
+i=0 id = 32 32768 
+
+input 178
+i=0 id = 178 32768 
+
+input 770
+i=0 id = 770 32768 
+
+input 436
+i=0 id = 436 32768 
+
+input 26
+i=0 id = 26 32768 
+
+input 467
+i=0 id = 467 32768 
+
+input 431
+i=0 id = 431 32768 
+
+input 456
+i=0 id = 456 32768 
+
+input 762
+i=0 id = 762 32768 
+
+input 446
+i=0 id = 446 32768 
+
+input 462
+i=0 id = 462 32768 
+
+input 277
+i=0 id = 277 32768 
+
+input 398
+i=0 id = 398 32768 
+
+input 557
+i=0 id = 557 32768 
+
+input 98
+i=0 id = 98 32768 
+
+input 434
+i=0 id = 434 32768 
+
+input 893
+i=0 id = 893 32768 
+
+input 606
+i=0 id = 606 32768 
+
+input 91
+i=0 id = 91 32768 
+
+input 972
+i=0 id = 972 32768 
+
+input 176
+i=0 id = 176 32768 
+
+input 923
+i=0 id = 923 32768 
+
+input 85
+i=0 id = 85 32768 
+
+input 592
+i=0 id = 592 32768 
+
+input 960
+i=0 id = 960 32768 
+
+input 420
+i=0 id = 420 32768 
+
+input 662
+i=0 id = 662 32768 
+
+input 354
+i=0 id = 354 32768 
+
+input 990
+i=0 id = 990 32768 
+
+input 859
+i=0 id = 859 32768 
+
+input 699
+i=0 id = 699 32768 
+
+input 96
+i=0 id = 96 32768 
+
+input 814
+i=0 id = 814 32768 
+
+input 640
+i=0 id = 640 32768 
+
+input 263
+i=0 id = 263 32768 
+
+input 776
+i=0 id = 776 32768 
+
+input 437
+i=0 id = 437 32768 
+
+input 886
+i=0 id = 886 32768 
+
+input 447
+i=0 id = 447 32768 
+
+input 879
+i=0 id = 879 32768 
+
+input 236
+i=0 id = 236 32768 
+
+input 571
+i=0 id = 571 32768 
+
+input 693
+i=0 id = 693 32768 
+
+input 289
+i=0 id = 289 32768 
+
+input 708
+i=0 id = 708 32768 
+
+input 121
+i=0 id = 121 32768 
+
+input 792
+i=0 id = 792 32768 
+
+input 228
+i=0 id = 228 32768 
+
+input 273
+i=0 id = 273 32768 
+
+input 620
+i=0 id = 620 32768 
+
+input 408
+i=0 id = 408 32768 
+
+input 644
+i=0 id = 644 32768 
+
+input 190
+i=0 id = 190 32768 
+
+input 973
+i=0 id = 973 32768 
+
+input 348
+i=0 id = 348 32768 
+
+input 708
+i=0 id = 708 32768 
+
+input 461
+i=0 id = 461 32768 
+
+input 748
+i=0 id = 748 32768 
+
+input 835
+i=0 id = 835 32768 
+
+input 530
+i=0 id = 530 32768 
+
+input 790
+i=0 id = 790 32768 
+
+input 63
+i=0 id = 63 32768 
+
+input 26
+i=0 id = 26 32768 
+
+input 219
+i=0 id = 219 32768 
+
+input 881
+i=0 id = 881 32768 
+
+input 540
+i=0 id = 540 32768 
+
+input 947
+i=0 id = 947 32768 
+
+input 142
+i=0 id = 142 32768 
+
+input 337
+i=0 id = 337 32768 
+
+input 882
+i=0 id = 882 32768 
+
+input 521
+i=0 id = 521 32768 
+
+input 647
+i=0 id = 647 32768 
+
+input 833
+i=0 id = 833 32768 
+
+input 437
+i=0 id = 437 32768 
+
+input 643
+i=0 id = 643 32768 
+
+input 6
+i=0 id = 6 32768 
+
+input 995
+i=0 id = 995 32768 
+
+input 499
+i=0 id = 499 32768 
+
+input 530
+i=0 id = 530 32768 
+
+input 688
+i=0 id = 688 32768 
+
+input 83
+i=0 id = 83 32768 
+
+input 491
+i=0 id = 491 32768 
+
+input 675
+i=0 id = 675 32768 
+
+input 190
+i=0 id = 190 32768 
+
+input 259
+i=0 id = 259 32768 
+
+input 858
+i=0 id = 858 32768 
+
+input 975
+i=0 id = 975 32768 
+
+input 281
+i=0 id = 281 32768 
+
+input 814
+i=0 id = 814 32768 
+
+input 396
+i=0 id = 396 32768 
+
+input 435
+i=0 id = 435 32768 
+
+input 354
+i=0 id = 354 32768 
+
+input 54
+i=0 id = 54 32768 
+
+input 165
+i=0 id = 165 32768 
+
+input 110
+i=0 id = 110 32768 
+
+input 219
+i=0 id = 219 32768 
+
+input 861
+i=0 id = 861 32768 
+
+input 40
+i=0 id = 40 32768 
+
+input 15
+i=0 id = 15 32768 
+
+input 866
+i=0 id = 866 32768 
+
+input 10
+i=0 id = 10 32768 
+
+input 418
+i=0 id = 418 32768 
+
+input 520
+i=0 id = 520 32768 
+
+input 858
+i=0 id = 858 32768 
+
+input 903
+i=0 id = 903 32768 
+
+input 526
+i=0 id = 526 32768 
+
+input 113
+i=0 id = 113 32768 
+
+input 811
+i=0 id = 811 32768 
+
+input 62
+i=0 id = 62 32768 
+
+input 140
+i=0 id = 140 32768 
+
+input 84
+i=0 id = 84 32768 
+
+input 466
+i=0 id = 466 32768 
+
+input 316
+i=0 id = 316 32768 
+
+input 144
+i=0 id = 144 32768 
+
+input 54
+i=0 id = 54 32768 
+
+input 926
+i=0 id = 926 32768 
+
+input 714
+i=0 id = 714 32768 
+
+input 814
+i=0 id = 814 32768 
+
+input 470
+i=0 id = 470 32768 
+
+input 315
+i=0 id = 315 32768 
+
+input 615
+i=0 id = 615 32768 
+
+input 177
+i=0 id = 177 32768 
+
+input 200
+i=0 id = 200 32768 
+
+input 691
+i=0 id = 691 32768 
+
+input 704
+i=0 id = 704 32768 
+
+input 901
+i=0 id = 901 32768 
+
+input 301
+i=0 id = 301 32768 
+
+input 569
+i=0 id = 569 32768 
+
+input 568
+i=0 id = 568 32768 
+
+input 249
+i=0 id = 249 32768 
+
+input 767
+i=0 id = 767 32768 
+
+input 124
+i=0 id = 124 32768 
+
+input 161
+i=0 id = 161 32768 
+
+input 56
+i=0 id = 56 32768 
+
+input 695
+i=0 id = 695 32768 
+
+input 263
+i=0 id = 263 32768 
+
+input 924
+i=0 id = 924 32768 
+
+input 283
+i=0 id = 283 32768 
+
+input 575
+i=0 id = 575 32768 
+
+input 539
+i=0 id = 539 32768 
+
+input 368
+i=0 id = 368 32768 
+
+input 383
+i=0 id = 383 32768 
+
+input 436
+i=0 id = 436 32768 
+
+input 872
+i=0 id = 872 32768 
+
+input 809
+i=0 id = 809 32768 
+
+input 631
+i=0 id = 631 32768 
+
+input 267
+i=0 id = 267 32768 
+
+input 119
+i=0 id = 119 32768 
+
+input 146
+i=0 id = 146 32768 
+
+input 551
+i=0 id = 551 32768 
+
+input 178
+i=0 id = 178 32768 
+
+input 909
+i=0 id = 909 32768 
+
+input 450
+i=0 id = 450 32768 
+
+input 742
+i=0 id = 742 32768 
+
+input 992
+i=0 id = 992 32768 
+
+input 940
+i=0 id = 940 32768 
+
+input 314
+i=0 id = 314 32768 
+
+input 439
+i=0 id = 439 32768 
+
+input 252
+i=0 id = 252 32768 
+
+input 499
+i=0 id = 499 32768 
+
+input 540
+i=0 id = 540 32768 
+
+input 868
+i=0 id = 868 32768 
+
+input 156
+i=0 id = 156 32768 
+
+input 249
+i=0 id = 249 32768 
+
+input 605
+i=0 id = 605 32768 
+
+input 156
+i=0 id = 156 32768 
+
+input 986
+i=0 id = 986 32768 
+
+input 422
+i=0 id = 422 32768 
+
+input 981
+i=0 id = 981 32768 
+
+input 146
+i=0 id = 146 32768 
+
+input 882
+i=0 id = 882 32768 
+
+input 246
+i=0 id = 246 32768 
+
+input 651
+i=0 id = 651 32768 
+
+input 865
+i=0 id = 865 32768 
+
+input 746
+i=0 id = 746 32768 
+
+input 661
+i=0 id = 661 32768 
+
+input 767
+i=0 id = 767 32768 
+
+input 41
+i=0 id = 41 32768 
+
+input 948
+i=0 id = 948 32768 
+
+input 298
+i=0 id = 298 32768 
+
+input 356
+i=0 id = 356 32768 
+
+input 857
+i=0 id = 857 32768 
+
+input 865
+i=0 id = 865 32768 
+
+input 637
+i=0 id = 637 32768 
+
+input 520
+i=0 id = 520 32768 
+
+input 480
+i=0 id = 480 32768 
+
+input 215
+i=0 id = 215 32768 
+
+input 553
+i=0 id = 553 32768 
+
+input 155
+i=0 id = 155 32768 
+
+input 414
+i=0 id = 414 32768 
+
+input 33
+i=0 id = 33 32768 
+
+input 849
+i=0 id = 849 32768 
+
+input 797
+i=0 id = 797 32768 
+
+input 214
+i=0 id = 214 32768 
+
+input 248
+i=0 id = 248 32768 
+
+input 189
+i=0 id = 189 32768 
+
+input 362
+i=0 id = 362 32768 
+
+input 903
+i=0 id = 903 32768 
+
+input 965
+i=0 id = 965 32768 
+
+input 602
+i=0 id = 602 32768 
+
+input 615
+i=0 id = 615 32768 
+
+input 652
+i=0 id = 652 32768 
+
+input 222
+i=0 id = 222 32768 
+
+input 955
+i=0 id = 955 32768 
+
+input 858
+i=0 id = 858 32768 
+
+input 239
+i=0 id = 239 32768 
+
+input 889
+i=0 id = 889 32768 
+
+input 427
+i=0 id = 427 32768 
+
+input 331
+i=0 id = 331 32768 
+
+input 225
+i=0 id = 225 32768 
+
+input 477
+i=0 id = 477 32768 
+
+input 247
+i=0 id = 247 32768 
+
+input 646
+i=0 id = 646 32768 
+
+input 705
+i=0 id = 705 32768 
+
+input 10
+i=0 id = 10 32768 
+
+input 136
+i=0 id = 136 32768 
+
+input 38
+i=0 id = 38 32768 
+
+input 304
+i=0 id = 304 32768 
+
+input 587
+i=0 id = 587 32768 
+
+input 75
+i=0 id = 75 32768 
+
+input 159
+i=0 id = 159 32768 
+
+input 717
+i=0 id = 717 32768 
+
+input 702
+i=0 id = 702 32768 
+
+input 653
+i=0 id = 653 32768 
+
+input 509
+i=0 id = 509 32768 
+
+input 15
+i=0 id = 15 32768 
+
+input 167
+i=0 id = 167 32768 
+
+input 628
+i=0 id = 628 32768 
+
+input 918
+i=0 id = 918 32768 
+
+input 900
+i=0 id = 900 32768 
+
+input 322
+i=0 id = 322 32768 
+
+input 492
+i=0 id = 492 32768 
+
+input 587
+i=0 id = 587 32768 
+
+input 260
+i=0 id = 260 32768 
+
+input 241
+i=0 id = 241 32768 
+
+input 65
+i=0 id = 65 32768 
+
+input 647
+i=0 id = 647 32768 
+
+input 882
+i=0 id = 882 32768 
+
+input 855
+i=0 id = 855 32768 
+
+input 906
+i=0 id = 906 32768 
+
+input 755
+i=0 id = 755 32768 
+
+input 335
+i=0 id = 335 32768 
+
+input 881
+i=0 id = 881 32768 
+
+input 490
+i=0 id = 490 32768 
+
+input 700
+i=0 id = 700 32768 
+
+input 774
+i=0 id = 774 32768 
+
+input 249
+i=0 id = 249 32768 
+
+input 285
+i=0 id = 285 32768 
+
+input 714
+i=0 id = 714 32768 
+
+input 12
+i=0 id = 12 32768 
+
+input 688
+i=0 id = 688 32768 
+
+input 509
+i=0 id = 509 32768 
+
+input 665
+i=0 id = 665 32768 
+
+input 352
+i=0 id = 352 32768 
+
+input 482
+i=0 id = 482 32768 
+
+input 776
+i=0 id = 776 32768 
+
+input 799
+i=0 id = 799 32768 
+
+input 477
+i=0 id = 477 32768 
+
+input 931
+i=0 id = 931 32768 
+
+input 540
+i=0 id = 540 32768 
+
+input 104
+i=0 id = 104 32768 
+
+input 726
+i=0 id = 726 32768 
+
+input 28
+i=0 id = 28 32768 
+
+input 140
+i=0 id = 140 32768 
+
+input 759
+i=0 id = 759 32768 
+
+input 594
+i=0 id = 594 32768 
+
+input 19
+i=0 id = 19 32768 
+
+input 368
+i=0 id = 368 32768 
+
+input 52
+i=0 id = 52 32768 
+
+input 995
+i=0 id = 995 32768 
+
+input 480
+i=0 id = 480 32768 
+
+input 946
+i=0 id = 946 32768 
+
+input 53
+i=0 id = 53 32768 
+
+input 725
+i=0 id = 725 32768 
+
+input 115
+i=0 id = 115 32768 
+
+input 362
+i=0 id = 362 32768 
+
+input 726
+i=0 id = 726 32768 
+
+input 65
+i=0 id = 65 32768 
+
+input 925
+i=0 id = 925 32768 
+
+input 805
+i=0 id = 805 32768 
+
+input 348
+i=0 id = 348 32768 
+
+input 295
+i=0 id = 295 32768 
+
+input 206
+i=0 id = 206 32768 
+
+input 959
+i=0 id = 959 32768 
+
+input 144
+i=0 id = 144 32768 
+
+input 151
+i=0 id = 151 32768 
+
+input 869
+i=0 id = 869 32768 
+
+input 551
+i=0 id = 551 32768 
+
+input 996
+i=0 id = 996 32768 
+
+input 517
+i=0 id = 517 32768 
+
+input 22
+i=0 id = 22 32768 
+
+input 580
+i=0 id = 580 32768 
+
+input 853
+i=0 id = 853 32768 
+
+input 471
+i=0 id = 471 32768 
+
+input 424
+i=0 id = 424 32768 
+
+input 569
+i=0 id = 569 32768 
+
+input 311
+i=0 id = 311 32768 
+
+input 936
+i=0 id = 936 32768 
+
+input 12
+i=0 id = 12 32768 
+
+input 72
+i=0 id = 72 32768 
+
+input 83
+i=0 id = 83 32768 
+
+input 971
+i=0 id = 971 32768 
+
+input 354
+i=0 id = 354 32768 
+
+input 226
+i=0 id = 226 32768 
+
+input 717
+i=0 id = 717 32768 
+
+input 986
+i=0 id = 986 32768 
+
+input 294
+i=0 id = 294 32768 
+
+input 110
+i=0 id = 110 32768 
+
+input 835
+i=0 id = 835 32768 
+
+input 52
+i=0 id = 52 32768 
+
+input 877
+i=0 id = 877 32768 
+
+input 161
+i=0 id = 161 32768 
+
+input 435
+i=0 id = 435 32768 
+
+input 887
+i=0 id = 887 32768 
+
+input 474
+i=0 id = 474 32768 
+
+input 350
+i=0 id = 350 32768 
+
+input 7
+i=0 id = 7 32768 
+
+input 364
+i=0 id = 364 32768 
+
+input 962
+i=0 id = 962 32768 
+
+input 991
+i=0 id = 991 32768 
+
+input 445
+i=0 id = 445 32768 
+
+input 498
+i=0 id = 498 32768 
+
+input 156
+i=0 id = 156 32768 
+
+input 59
+i=0 id = 59 32768 
+
+input 967
+i=0 id = 967 32768 
+
+input 832
+i=0 id = 832 32768 
+
+input 796
+i=0 id = 796 32768 
+
+input 751
+i=0 id = 751 32768 
+
+input 753
+i=0 id = 753 32768 
+
+input 270
+i=0 id = 270 32768 
+
+input 994
+i=0 id = 994 32768 
+
+input 294
+i=0 id = 294 32768 
+
+input 123
+i=0 id = 123 32768 
+
+input 941
+i=0 id = 941 32768 
+
+input 422
+i=0 id = 422 32768 
+
+input 214
+i=0 id = 214 32768 
+
+input 920
+i=0 id = 920 32768 
+
+input 245
+i=0 id = 245 32768 
+
+input 672
+i=0 id = 672 32768 
+
+input 816
+i=0 id = 816 32768 
+
+input 652
+i=0 id = 652 32768 
+
+input 120
+i=0 id = 120 32768 
+
+input 460
+i=0 id = 460 32768 
+
+input 86
+i=0 id = 86 32768 
+
+input 610
+i=0 id = 610 32768 
+
+input 640
+i=0 id = 640 32768 
+
+input 848
+i=0 id = 848 32768 
+
+input 992
+i=0 id = 992 32768 
+
+input 70
+i=0 id = 70 32768 
+
+input 419
+i=0 id = 419 32768 
+
+input 575
+i=0 id = 575 32768 
+
+input 798
+i=0 id = 798 32768 
+
+input 837
+i=0 id = 837 32768 
+
+input 358
+i=0 id = 358 32768 
+
+input 856
+i=0 id = 856 32768 
+
+input 270
+i=0 id = 270 32768 
+
+input 883
+i=0 id = 883 32768 
+
+input 975
+i=0 id = 975 32768 
+
+input 944
+i=0 id = 944 32768 
+
+input 279
+i=0 id = 279 32768 
+
+input 767
+i=0 id = 767 32768 
+
+input 222
+i=0 id = 222 32768 
+
+input 156
+i=0 id = 156 32768 
+
+input 356
+i=0 id = 356 32768 
+
+input 772
+i=0 id = 772 32768 
+
+input 475
+i=0 id = 475 32768 
+
+input 880
+i=0 id = 880 32768 
+
+input 883
+i=0 id = 883 32768 
+
+input 733
+i=0 id = 733 32768 
+
+input 176
+i=0 id = 176 32768 
+
+input 449
+i=0 id = 449 32768 
+
+input 310
+i=0 id = 310 32768 
+
+input 8
+i=0 id = 8 32768 
+
+input 804
+i=0 id = 804 32768 
+
+input 465
+i=0 id = 465 32768 
+
+input 470
+i=0 id = 470 32768 
+
+input 276
+i=0 id = 276 32768 
+
+input 528
+i=0 id = 528 32768 
+
+input 809
+i=0 id = 809 32768 
+
+input 8
+i=0 id = 8 32768 
+
+input 250
+i=0 id = 250 32768 
+
+input 160
+i=0 id = 160 32768 
+
+input 691
+i=0 id = 691 32768 
+
+input 124
+i=0 id = 124 32768 
+
+input 621
+i=0 id = 621 32768 
+
+input 74
+i=0 id = 74 32768 
+
+input 766
+i=0 id = 766 32768 
+
+input 626
+i=0 id = 626 32768 
+
+input 938
+i=0 id = 938 32768 
+
+input 316
+i=0 id = 316 32768 
+
+input 499
+i=0 id = 499 32768 
+
+input 668
+i=0 id = 668 32768 
+
+input 417
+i=0 id = 417 32768 
+
+input 603
+i=0 id = 603 32768 
+
+input 435
+i=0 id = 435 32768 
+
+input 515
+i=0 id = 515 32768 
+
+input 4
+i=0 id = 4 32768 
+
+input 483
+i=0 id = 483 32768 
+
+input 121
+i=0 id = 121 32768 
+
+input 408
+i=0 id = 408 32768 
+
+input 204
+i=0 id = 204 32768 
+
+input 359
+i=0 id = 359 32768 
+
+input 941
+i=0 id = 941 32768 
+
+input 893
+i=0 id = 893 32768 
+
+input 130
+i=0 id = 130 32768 
+
+input 480
+i=0 id = 480 32768 
+
+input 920
+i=0 id = 920 32768 
+
+input 281
+i=0 id = 281 32768 
+
+input 875
+i=0 id = 875 32768 
+
+input 319
+i=0 id = 319 32768 
+
+input 633
+i=0 id = 633 32768 
+
+input 920
+i=0 id = 920 32768 
+
+input 7
+i=0 id = 7 32768 
+
+input 935
+i=0 id = 935 32768 
+
+input 244
+i=0 id = 244 32768 
+
+input 388
+i=0 id = 388 32768 
+
+input 235
+i=0 id = 235 32768 
+
+input 872
+i=0 id = 872 32768 
+
+input 224
+i=0 id = 224 32768 
+
+input 377
+i=0 id = 377 32768 
+
+input 12
+i=0 id = 12 32768 
+
+input 480
+i=0 id = 480 32768 
+
+input 493
+i=0 id = 493 32768 
+
+input 570
+i=0 id = 570 32768 
+
+input 969
+i=0 id = 969 32768 
+
+input 395
+i=0 id = 395 32768 
+
+input 460
+i=0 id = 460 32768 
+
+input 738
+i=0 id = 738 32768 
+
+input 997
+i=0 id = 997 32768 
+
+input 516
+i=0 id = 516 32768 
+
+input 386
+i=0 id = 386 32768 
+
+input 772
+i=0 id = 772 32768 
+
+input 559
+i=0 id = 559 32768 
+
+input 935
+i=0 id = 935 32768 
+
+input 401
+i=0 id = 401 32768 
+
+input 83
+i=0 id = 83 32768 
+
+input 711
+i=0 id = 711 32768 
+
+input 794
+i=0 id = 794 32768 
+
+input 321
+i=0 id = 321 32768 
+
+input 407
+i=0 id = 407 32768 
+
+input 511
+i=0 id = 511 32768 
+
+input 53
+i=0 id = 53 32768 
+
+input 862
+i=0 id = 862 32768 
+
+input 889
+i=0 id = 889 32768 
+
+input 797
+i=0 id = 797 32768 
+
+input 472
+i=0 id = 472 32768 
+
+input 584
+i=0 id = 584 32768 
+
+input 18
+i=0 id = 18 32768 
+
+input 695
+i=0 id = 695 32768 
+
+input 995
+i=0 id = 995 32768 
+
+input 636
+i=0 id = 636 32768 
+
+input 710
+i=0 id = 710 32768 
+
+input 77
+i=0 id = 77 32768 
+
+input 388
+i=0 id = 388 32768 
+
+input 296
+i=0 id = 296 32768 
+
+input 157
+i=0 id = 157 32768 
+
+input 934
+i=0 id = 934 32768 
+
+input 584
+i=0 id = 584 32768 
+
+input 285
+i=0 id = 285 32768 
+
+input 451
+i=0 id = 451 32768 
+
+input 920
+i=0 id = 920 32768 
+
+input 111
+i=0 id = 111 32768 
+
+input 780
+i=0 id = 780 32768 
+
+input 787
+i=0 id = 787 32768 
+
+input 166
+i=0 id = 166 32768 
+
+input 868
+i=0 id = 868 32768 
+
+input 903
+i=0 id = 903 32768 
+
+input 247
+i=0 id = 247 32768 
+
+input 860
+i=0 id = 860 32768 
+
+input 378
+i=0 id = 378 32768 
+
+input 319
+i=0 id = 319 32768 
+
+input 490
+i=0 id = 490 32768 
+
+input 943
+i=0 id = 943 32768 
+
+input 556
+i=0 id = 556 32768 
+
+input 164
+i=0 id = 164 32768 
+
+input 254
+i=0 id = 254 32768 
+
+input 378
+i=0 id = 378 32768 
+
+input 982
+i=0 id = 982 32768 
+
+input 85
+i=0 id = 85 32768 
+
+input 107
+i=0 id = 107 32768 
+
+input 195
+i=0 id = 195 32768 
+
+input 504
+i=0 id = 504 32768 
+
+input 903
+i=0 id = 903 32768 
+
+input 516
+i=0 id = 516 32768 
+
+input 911
+i=0 id = 911 32768 
+
+input 575
+i=0 id = 575 32768 
+
+input 509
+i=0 id = 509 32768 
+
+input 836
+i=0 id = 836 32768 
+
+input 31
+i=0 id = 31 32768 
+
+input 189
+i=0 id = 189 32768 
+
+input 119
+i=0 id = 119 32768 
+
+input 549
+i=0 id = 549 32768 
+
+input 911
+i=0 id = 911 32768 
+
+input 343
+i=0 id = 343 32768 
+
+input 661
+i=0 id = 661 32768 
+
+input 330
+i=0 id = 330 32768 
+
+input 752
+i=0 id = 752 32768 
+
+input 196
+i=0 id = 196 32768 
+
+input 483
+i=0 id = 483 32768 
+
+input 571
+i=0 id = 571 32768 
+
+input 619
+i=0 id = 619 32768 
+
+input 353
+i=0 id = 353 32768 
+
+input 285
+i=0 id = 285 32768 
+
+input 746
+i=0 id = 746 32768 
+
+input 454
+i=0 id = 454 32768 
+
+input 936
+i=0 id = 936 32768 
+
+input 288
+i=0 id = 288 32768 
+
+input 895
+i=0 id = 895 32768 
+
+input 271
+i=0 id = 271 32768 
+
+input 82
+i=0 id = 82 32768 
+
+input 863
+i=0 id = 863 32768 
+
+input 832
+i=0 id = 832 32768 
+
+input 547
+i=0 id = 547 32768 
+
+input 597
+i=0 id = 597 32768 
+
+input 731
+i=0 id = 731 32768 
+
+input 506
+i=0 id = 506 32768 
+
+input 706
+i=0 id = 706 32768 
+
+input 85
+i=0 id = 85 32768 
+
+input 873
+i=0 id = 873 32768 
+
+input 220
+i=0 id = 220 32768 
+
+input 532
+i=0 id = 532 32768 
+
+input 158
+i=0 id = 158 32768 
+
+input 879
+i=0 id = 879 32768 
+
+input 682
+i=0 id = 682 32768 
+
+input 380
+i=0 id = 380 32768 
+
+input 778
+i=0 id = 778 32768 
+
+input 299
+i=0 id = 299 32768 
+
+input 729
+i=0 id = 729 32768 
+
+input 162
+i=0 id = 162 32768 
+
+input 730
+i=0 id = 730 32768 
+
+input 511
+i=0 id = 511 32768 
+
+input 265
+i=0 id = 265 32768 
+
+input 935
+i=0 id = 935 32768 
+
+input 34
+i=0 id = 34 32768 
+
+input 293
+i=0 id = 293 32768 
+
+input 285
+i=0 id = 285 32768 
+
+input 923
+i=0 id = 923 32768 
+
+input 113
+i=0 id = 113 32768 
+
+input 563
+i=0 id = 563 32768 
+
+input 253
+i=0 id = 253 32768 
+
+input 367
+i=0 id = 367 32768 
+
+input 159
+i=0 id = 159 32768 
+
+input 848
+i=0 id = 848 32768 
+
+input 484
+i=0 id = 484 32768 
+
+input 633
+i=0 id = 633 32768 
+
+input 127
+i=0 id = 127 32768 
+
+input 124
+i=0 id = 124 32768 
+
+input 164
+i=0 id = 164 32768 
+
+input 303
+i=0 id = 303 32768 
+
+input 177
+i=0 id = 177 32768 
+
+input 478
+i=0 id = 478 32768 
+
+input 806
+i=0 id = 806 32768 
+
+input 99
+i=0 id = 99 32768 
+
+input 26
+i=0 id = 26 32768 
+
+input 779
+i=0 id = 779 32768 
+
+input 989
+i=0 id = 989 32768 
+
+input 268
+i=0 id = 268 32768 
+
+input 103
+i=0 id = 103 32768 
+
+input 751
+i=0 id = 751 32768 
+
+input 496
+i=0 id = 496 32768 
+
+input 424
+i=0 id = 424 32768 
+
+input 880
+i=0 id = 880 32768 
+
+input 596
+i=0 id = 596 32768 
+
+input 11
+i=0 id = 11 32768 
+
+input 797
+i=0 id = 797 32768 
+
+input 53
+i=0 id = 53 32768 
+
+input 104
+i=0 id = 104 32768 
+
+input 948
+i=0 id = 948 32768 
+
+input 917
+i=0 id = 917 32768 
+
+input 231
+i=0 id = 231 32768 
+
+input 576
+i=0 id = 576 32768 
+
+input 968
+i=0 id = 968 32768 
+
+input 867
+i=0 id = 867 32768 
+
+input 950
+i=0 id = 950 32768 
+
+input 858
+i=0 id = 858 32768 
+
+input 713
+i=0 id = 713 32768 
+
+input 878
+i=0 id = 878 32768 
+
+input 119
+i=0 id = 119 32768 
+
+input 148
+i=0 id = 148 32768 
+
+input 227
+i=0 id = 227 32768 
+
+input 58
+i=0 id = 58 32768 
+
+input 400
+i=0 id = 400 32768 
+
+input 1
+i=0 id = 1 32768 
+
+input 297
+i=0 id = 297 32768 
+
+input 655
+i=0 id = 655 32768 
+
+input 215
+i=0 id = 215 32768 
+
+input 691
+i=0 id = 691 32768 
+
+input 435
+i=0 id = 435 32768 
+
+input 601
+i=0 id = 601 32768 
+
+input 978
+i=0 id = 978 32768 
+
+input 333
+i=0 id = 333 32768 
+
+input 654
+i=0 id = 654 32768 
+
+input 293
+i=0 id = 293 32768 
+
+input 491
+i=0 id = 491 32768 
+
+input 672
+i=0 id = 672 32768 
+
+input 836
+i=0 id = 836 32768 
+
+input 553
+i=0 id = 553 32768 
+
+input 403
+i=0 id = 403 32768 
+
+input 371
+i=0 id = 371 32768 
+
+input 21
+i=0 id = 21 32768 
+
+input 397
+i=0 id = 397 32768 
+
+input 954
+i=0 id = 954 32768 
+
+input 31
+i=0 id = 31 32768 
+
+input 460
+i=0 id = 460 32768 
+
+input 106
+i=0 id = 106 32768 
+
+input 989
+i=0 id = 989 32768 
+
+input 328
+i=0 id = 328 32768 
+
+input 931
+i=0 id = 931 32768 
+
+input 610
+i=0 id = 610 32768 
+
+input 185
+i=0 id = 185 32768 
+
+input 570
+i=0 id = 570 32768 
+
+input 32
+i=0 id = 32 32768 
+
+input 773
+i=0 id = 773 32768 
+
+input 746
+i=0 id = 746 32768 
+
+input 658
+i=0 id = 658 32768 
+
+input 607
+i=0 id = 607 32768 
+
+input 316
+i=0 id = 316 32768 
+
+input 61
+i=0 id = 61 32768 
+
+input 444
+i=0 id = 444 32768 
+
+input 844
+i=0 id = 844 32768 
+
+input 157
+i=0 id = 157 32768 
+
+input 814
+i=0 id = 814 32768 
+
+input 648
+i=0 id = 648 32768 
+
+input 781
+i=0 id = 781 32768 
+
+input 623
+i=0 id = 623 32768 
+
+input 246
+i=0 id = 246 32768 
+
+input 489
+i=0 id = 489 32768 
+
+input 432
+i=0 id = 432 32768 
+
+input 232
+i=0 id = 232 32768 
+
+input 201
+i=0 id = 201 32768 
+
+input 542
+i=0 id = 542 32768 
+
+input 863
+i=0 id = 863 32768 
+
+input 344
+i=0 id = 344 32768 
+
+input 439
+i=0 id = 439 32768 
+
+input 646
+i=0 id = 646 32768 
+
+input 537
+i=0 id = 537 32768 
+
+input 621
+i=0 id = 621 32768 
+
+input 525
+i=0 id = 525 32768 
+
+input 51
+i=0 id = 51 32768 
+
+input 773
+i=0 id = 773 32768 
+
+input 401
+i=0 id = 401 32768 
+
+input 380
+i=0 id = 380 32768 
+
+input 546
+i=0 id = 546 32768 
+
+input 185
+i=0 id = 185 32768 
+
+input 136
+i=0 id = 136 32768 
+
+input 505
+i=0 id = 505 32768 
+
+input 321
+i=0 id = 321 32768 
+
+input 238
+i=0 id = 238 32768 
+
+input 956
+i=0 id = 956 32768 
+
+input 567
+i=0 id = 567 32768 
+
+input 565
+i=0 id = 565 32768 
+
+input 605
+i=0 id = 605 32768 
+
+input 457
+i=0 id = 457 32768 
+
+input 854
+i=0 id = 854 32768 
+
+input 169
+i=0 id = 169 32768 
+
+input 113
+i=0 id = 113 32768 
+
+input 956
+i=0 id = 956 32768 
+
+input 941
+i=0 id = 941 32768 
+
+input 643
+i=0 id = 643 32768 
+
+input 537
+i=0 id = 537 32768 
+
+input 628
+i=0 id = 628 32768 
+
+input 187
+i=0 id = 187 32768 
+
+input 62
+i=0 id = 62 32768 
+
+input 472
+i=0 id = 472 32768 
+
+input 709
+i=0 id = 709 32768 
+
+input 192
+i=0 id = 192 32768 
+
+input 442
+i=0 id = 442 32768 
+
+input 419
+i=0 id = 419 32768 
+
+input 264
+i=0 id = 264 32768 
+
+input 923
+i=0 id = 923 32768 
+
+input 694
+i=0 id = 694 32768 
+
+input 309
+i=0 id = 309 32768 
+
+input 13
+i=0 id = 13 32768 
+
+input 82
+i=0 id = 82 32768 
+
+input 178
+i=0 id = 178 32768 
+
+input 429
+i=0 id = 429 32768 
+
+input 411
+i=0 id = 411 32768 
+
+input 144
+i=0 id = 144 32768 
+
+input 994
+i=0 id = 994 32768 
+
+input 531
+i=0 id = 531 32768 
+
+input 85
+i=0 id = 85 32768 
+
+input 883
+i=0 id = 883 32768 
+
+input 922
+i=0 id = 922 32768 
+
+input 551
+i=0 id = 551 32768 
+
+input 647
+i=0 id = 647 32768 
+
+input 351
+i=0 id = 351 32768 
+
+input 824
+i=0 id = 824 32768 
+
+input 269
+i=0 id = 269 32768 
+
+input 508
+i=0 id = 508 32768 
+
+input 417
+i=0 id = 417 32768 
+
+input 138
+i=0 id = 138 32768 
+
+input 586
+i=0 id = 586 32768 
+
+input 923
+i=0 id = 923 32768 
+
+input 182
+i=0 id = 182 32768 
+
+input 170
+i=0 id = 170 32768 
+
+input 563
+i=0 id = 563 32768 
+
+input 457
+i=0 id = 457 32768 
+
+input 641
+i=0 id = 641 32768 
+
+input 862
+i=0 id = 862 32768 
+
+input 424
+i=0 id = 424 32768 
+
+input 473
+i=0 id = 473 32768 
+
+input 589
+i=0 id = 589 32768 
+
+input 694
+i=0 id = 694 32768 
+
+input 142
+i=0 id = 142 32768 
+
+input 772
+i=0 id = 772 32768 
+
+input 983
+i=0 id = 983 32768 
+
+input 972
+i=0 id = 972 32768 
+
+input 761
+i=0 id = 761 32768 
+
+input 266
+i=0 id = 266 32768 
+
+input 471
+i=0 id = 471 32768 
+
+input 985
+i=0 id = 985 32768 
+
+input 97
+i=0 id = 97 32768 
+
+input 67
+i=0 id = 67 32768 
+
+input 861
+i=0 id = 861 32768 
+
+input 758
+i=0 id = 758 32768 
+
+input 584
+i=0 id = 584 32768 
+
+input 214
+i=0 id = 214 32768 
+
+input 740
+i=0 id = 740 32768 
+
+input 783
+i=0 id = 783 32768 
+
+input 959
+i=0 id = 959 32768 
+
+input 780
+i=0 id = 780 32768 
+
+input 834
+i=0 id = 834 32768 
+
+input 361
+i=0 id = 361 32768 
+
+input 782
+i=0 id = 782 32768 
+
+input 544
+i=0 id = 544 32768 
+
+input 690
+i=0 id = 690 32768 
+
+input 400
+i=0 id = 400 32768 
+
+input 527
+i=0 id = 527 32768 
+
+input 438
+i=0 id = 438 32768 
+
+input 272
+i=0 id = 272 32768 
+
+
+hit:0.000000, miss:1000.000000, ratio:0.000000

@@ -1,0 +1,6 @@
+For 5 sequence:
+    increase : 1 1 1 1 1 2 1 1 1 1 (here ration is 9/1, because 9 same page storage in memory)
+    decrease : 1 2 3 4 5 1 6 7 8 9  (here ration is 1/9, because only 1 same page storage in memory)
+The larger memory capacity have higher the chance of a hit. And inversly, a smaller memory capacity have higher the chance of a miss. To increase the ratio, you need to have a larger memory size.
+
+For "input.txt" if you set memory size 1000, ratio equal to 0.6 (hit = 375, miss = 625). If your set memory size 1 ratio equal to 0 (hit = 0, miss = 1000).

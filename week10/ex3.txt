@@ -1,0 +1,6 @@
+-rw-r--r-- 1 aisenlinux aisenlinux 6 окт 26 23:21 _ex3.txt
+-rwxr--rwx 1 aisenlinux aisenlinux 6 окт 26 23:21 _ex3.txt
+-rwxrwxrwx 1 aisenlinux aisenlinux 6 окт 26 23:21 _ex3.txt
+660 User and Group can read and write, no other permissions granted
+777 All user and group have full permissions - write, read, execute
+775 Everyone has all permissions, except other cannot write

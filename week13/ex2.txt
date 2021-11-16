@@ -1,0 +1,5 @@
+Main idead of Deadlock Avoidance is warming and stop deadlock from happening ahead.
+Deadlock avoidance method need a lot data about each processor, to be known when deadlock may happening.
+But it can guarantee that each processor next step will have not a deadlock.
+
+Deadlock Prevention is method which designed to system where deadlock can't happening.
